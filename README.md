@@ -5,6 +5,7 @@ Elabore um algoritmo que receba três números e ao final imprima na tela, a som
   ## Exemplo de execução do programa
   
   ![Exemplo](assets/jsc.png)
+ <img src=".lesson/assets/jsc.png" alt="Telas" />
 
  
 ## Índice
