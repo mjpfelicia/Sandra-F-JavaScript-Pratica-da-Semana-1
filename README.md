@@ -4,7 +4,7 @@ Elabore um algoritmo que receba três números e ao final imprima na tela, a som
 
   ## Exemplo de execução do programa
   
- <img src=".lesson/assets/jsc.png" alt="Telas" />
+ <img src=".lesson/assets/javas.png" alt="Telas" />
 
  
 ## Índice
